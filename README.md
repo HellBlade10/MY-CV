@@ -1,6 +1,6 @@
 # MY-CV
 
-**Note** this is a repository that falls under **Frontend** category in [*roadmap.sh*](https://roadmap.sh).
+**Note** this is a repository that falls under <span style="color🔴">**Frontend**</span> category in [*roadmap.sh*](https://roadmap.sh).
 
 Welcome to my repository where you can find the source code for the **C.V. PAGE**.
 
