@@ -1,7 +1,11 @@
 # MY-CV
-#Note this is a Repository that falls under <b>Frontend</b> Category in <u><i>www.roadmap.sh</i></u><br>
-Welcome to my repository where you can find source code to <e>C.V. PAGE</e>.<br>
-The projects details can be found here:<br>
-<center>--> https://roadmap.sh/frontend <--</center>
 
-<a href = "https://roadmap.sh/get-started"><button>Click here for more info.</button></a>
+**Note** this is a repository that falls under **Frontend** category in [*roadmap.sh*](https://roadmap.sh).
+
+Welcome to my repository where you can find the source code for the **C.V. PAGE**.
+
+The project details can be found here:
+
+--> <a href="https://roadmap.sh/frontend">https://roadmap.sh/frontend</a> <--
+
+<a href="https://roadmap.sh/get-started">Click here for more info.</a>
